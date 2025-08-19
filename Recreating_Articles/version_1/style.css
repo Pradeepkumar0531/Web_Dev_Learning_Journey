@@ -1,0 +1,48 @@
+body{
+    font-family: sans-serif;
+    color:rgb(58, 55, 55);
+    margin-block: 100px;
+}
+
+header{
+    text-align: center;
+}
+
+.wrapper{
+    margin-inline: 100px;
+    max-inline-size: 1000px;
+}
+
+h1{
+    font-size: 4rem;
+    text-align: center;
+    color: rgb(57, 102, 170);
+    line-height: 60px;
+}
+
+h2{
+    font-size: 2rem;
+    color: rgb(230, 104, 0);
+    margin-block:8px;
+}
+
+h3{
+    margin-block:10px;
+    color:black;
+}
+
+section{
+    margin-block: 50px;
+}
+
+img{
+    text-align: center;
+}
+
+footer{
+    padding: 20px;;
+    text-align:center;
+    background-color: rgb(22, 76, 121);
+    color:white;
+}
+

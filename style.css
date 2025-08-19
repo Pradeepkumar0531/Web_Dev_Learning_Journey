@@ -1,0 +1,94 @@
+/* Comment in CSS */
+body{
+    background-color: aqua;
+}
+
+/* h1 is a selector*/
+h1{
+    background-color: burlywood;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight: 1000;
+    font-size: 2em;/* 16px=1em*/
+}
+
+/* # is used to style a specific selector based on id*/
+#firstpara{
+    background-color: antiquewhite;
+    margin: 50px; /* top bottom left right*/
+    text-decoration: overline darkorchid double 2px ;
+    text-indent: 20px;
+    letter-spacing: 10px;
+}
+
+/* . is used to style a specific selector based on class*/
+.secondpara{
+    color: blue;
+    border-style:dashed dotted solid double;
+    border-width:3px 5px 39px 3px;
+    border-color:darkblue darkorchid darkred darkslategray;
+    border-left: 5px double black;
+    border-radius: 8px;
+    padding: 10px;
+    outline-style: solid;
+    outline-offset:3px;
+
+}
+
+/* if we have same class in different selectors*/
+h5.heading{
+    border-style: outset;
+    max-width: fit-content;
+    color: blue;
+}
+
+table,th,td{
+    /* display: none;
+    visibility: hidden; */
+    border: 3px solid;
+    width:33%;
+    border-collapse: collapse;
+    padding: 5px;
+}
+tr:hover{
+    background-color: white;
+}
+
+/*Dropdownbutton*/
+.dropdownbutton{
+    background-color: black;
+    color: aliceblue;
+    padding: 11px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+.dropdownmenu{
+    display: none;
+    position: absolute;
+    background-color:brown;
+    min-width: 140px;
+}
+.dropdownmenu a{
+    color: black;
+    display: block;
+    text-decoration: none;
+}
+.dropdownmenu a:hover{
+    background-color:white ;
+}
+.dropdown:hover .dropdownmenu{
+    display: block;
+}
+.dropdown:hover .dropdownbutton{
+    background-color: gray;
+}
+
+
