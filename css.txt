@@ -9,8 +9,14 @@ border
 padding
 margin
 
-static
-relative
-absolute (z-index)
-fixed
+Positioning:
+    static
+    relative(parent)
+    absolute(child) (z-index)
+    fixed
+
+Display:
+    inline
+    block
+    Nonef
 
