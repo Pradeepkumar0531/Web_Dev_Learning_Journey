@@ -18,5 +18,14 @@ Positioning:
 Display:
     inline
     block
-    Nonef
+    None
+Float
+clear
+
+
+Responsive:
+   1.Media queries
+   2.CSS Grid
+   3.CSS Flexbox
+   4.External Frameworks like Bootstrap
 
