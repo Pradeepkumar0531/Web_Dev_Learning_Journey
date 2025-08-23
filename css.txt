@@ -24,8 +24,12 @@ clear
 
 
 Responsive:
-   1.Media queries
+   1.Media queries(max-width and min-width)
    2.CSS Grid
    3.CSS Flexbox
    4.External Frameworks like Bootstrap
+   
+Flexbox:(display:flex,inline-flex)
+gap,flex-direction(row,column),flex-basis,
+flexboxlayout:order(rank),flex-wrap(wrap,nowrap,wrapreverse),justify-content[based on main-axis](flex-start,flex-end,center,space-between,space-around,space-evenly),align-items[based on cross-axis],align-content[with flex-wrap],flex-flow=flex-direction+flex-wrap
 
