@@ -25,11 +25,19 @@ clear
 
 Responsive:
    1.Media queries(max-width and min-width)
-   2.CSS Grid
-   3.CSS Flexbox
+   2.CSS Flexbox
+   3.CSS Grid
    4.External Frameworks like Bootstrap
    
 Flexbox:(display:flex,inline-flex)
 gap,flex-direction(row,column),flex-basis,
 flexboxlayout:order(rank),flex-wrap(wrap,nowrap,wrapreverse),justify-content[based on main-axis](flex-start,flex-end,center,space-between,space-around,space-evenly),align-items[based on cross-axis],align-content[with flex-wrap],flex-flow=flex-direction+flex-wrap
+
+Grid:(display:grid)
+grid-template-columns,grid-template-rows,grid-auto-rows,grid-auto-columns,grid-column(start,end),grid-row(start,end),grid-area:(row-start,column-start,row-end,column-end)[numbers]
+
+Bootstrap:
+sm,md,lg,xl,xxl 
+btn
+
 
