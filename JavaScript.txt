@@ -1,0 +1,2 @@
+DataTypes: Strings(concatenation(+),"".length,"".slice(start,end),"".toUpperCase(),"".toLowerCase()),
+	   Numbers(x++,x--,x+=y), Boolean

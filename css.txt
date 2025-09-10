@@ -37,7 +37,11 @@ Grid:(display:grid)
 grid-template-columns,grid-template-rows,grid-auto-rows,grid-auto-columns,grid-column(start,end),grid-row(start,end),grid-area:(row-start,column-start,row-end,column-end)[numbers]
 
 Bootstrap:
-sm,md,lg,xl,xxl 
-btn
+
+web-design principles:
+	color theory 
+	typography
+	user interface design--> Hierarchy, layout, alignment, whitespace and audience
+	use experience design--> Simplicity, consistency, Reading Patterns, platform design
 
 
