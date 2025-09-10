@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(18, 75, 109);
+    text-align: center;
+}
+h1{
+    font-size: 7rem;
+    margin: 0;
+    text-shadow: 5px 0 black;
+}
+
+.container{
+    color: rgb(78, 189, 174);
+    font-family: Lobster,'cursive';
+    margin:30px;
+}
+p{
+    font-size: 30px;
+}
+
+.player,footer{
+    color: rgb(78, 189, 174);
+    display: inline-block;
+    font-family: 'indie flower','cursive';
+    margin: 20px;
+}
