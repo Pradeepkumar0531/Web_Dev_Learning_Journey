@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: rgb(7, 70, 70);
+}
+h1{
+    font-family: 'Press Start 2P',monospace;
+    margin:5%;
+    font-size: 3rem;
+    color: rgb(0, 255, 255);
+}
+.game-over{
+    background-color: red;
+    opacity: 0.8;
+}
+.container{
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+
+.pressed{
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+}
+
+button{
+    height: 200px;
+    width: 200px;
+    margin: 25px;
+    border: 10px solid black;
+    border-radius: 20%;
+    display: inline-block;
+}

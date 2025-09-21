@@ -1,3 +1,7 @@
+
+
+// JavaScript
+
 document.addEventListener('keypress',function(event){
     playSound(event.key);
     forAnimation(event.key);

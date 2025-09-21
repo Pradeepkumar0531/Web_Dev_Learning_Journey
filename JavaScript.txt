@@ -1,2 +1,11 @@
-DataTypes: Strings(concatenation(+),"".length,"".slice(start,end),"".toUpperCase(),"".toLowerCase()),
-	   Numbers(x++,x--,x+=y), Boolean
+Basic Synthax:
+
+document.querySelector(element).addEventListener(operation,functionname or direct function(){})
+
+var audio = new Audio('./sounds/tom-1.mp3');
+audio.play();
+
+https://udn.realityripple.com/docs/Web/Events (Event References)
+
+
+
