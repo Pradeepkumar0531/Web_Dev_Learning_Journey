@@ -57,6 +57,6 @@ function forAnimation(current){
 
     setTimeout(function(){
         activateButton.classList.remove("pressed");
-    },100)
+    },150)
 
 }
